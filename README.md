@@ -1,6 +1,6 @@
 #Optimization-Accuracy-Vs-Data-Scale
 
-RTRTRThohohohaha
+RThohohaha
 
 Two .m files.
 
